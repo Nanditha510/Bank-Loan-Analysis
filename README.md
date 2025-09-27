@@ -27,6 +27,8 @@ The goal is to generate insights, track KPIs, and present findings through a das
 - `Terminologies.pdf` → Data dictionary / terms explanation  
 - `financial_loan.csv` → Dataset  
 
+## 🔹 Dashboard Preview
+**NOTE:** To interact with the dashboard, download the `.pbix` file. You can also view the screenshot below before downloading.
 
 ## 🔹 Insights
 - Monthly loan application trends and seasonality  
